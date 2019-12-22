@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/.vs
+/HackerRank Day 2/.vs/HackerRank Day 2/v16
